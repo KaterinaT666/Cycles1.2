@@ -61,7 +61,7 @@ public class Main {
         System.out.println(" Задание 3.1 ");
         int salary0 = 29000;
         int total0 = 0;
-        for (int i = 1; i <= 12; i++) {
+        for (int  i = 1; i <= 12; i++) {
             total0 = total0 + salary0;
             System.out.println("Месяц " + i + " , сумма накоплений равна " + total0 + " рублей. ");
         }
